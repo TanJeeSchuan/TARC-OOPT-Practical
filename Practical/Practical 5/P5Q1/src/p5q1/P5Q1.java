@@ -6,7 +6,7 @@ package p5q1;
 import java.util.Scanner;
 
 /**
- *
+ * 
  * @author Tan Jee Schuan
  */
 public class P5Q1 {
